@@ -22,5 +22,3 @@ a flatten layer, a dense layer (128 units), dropout (0.3), and a
 - MNIST is a clean, simple benchmark. A high score here does not mean the
   model works on real-world images. See my CIFAR-10 project, where the
   same kind of model scored lower and struggled on real photos.
-- [Written as a course exercise / written to practice.]
-- I used AI tools to help with debugging. [Keep only if true.]
